@@ -6,4 +6,4 @@ Each time when you enter a number, the program will give you a **hint**, dependi
 
 <img alt="Image" width="300px" high = "200px" src = "https://user-images.githubusercontent.com/101062805/213922668-4b9d93a8-68b7-421c-8f70-80a5f07e6e8a.png" />
 
-[https://pastebin.com/ky2JiLFU](Program.cs)
+(https://pastebin.com/ky2JiLFU)
